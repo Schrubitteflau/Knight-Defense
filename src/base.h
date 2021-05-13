@@ -24,4 +24,4 @@ typedef struct KD_COORD
 bool kd_init_allegro(void);
 bool kd_init_display(ALLEGRO_DISPLAY **display);
 
-#endif
+#endif // __BASE_H__

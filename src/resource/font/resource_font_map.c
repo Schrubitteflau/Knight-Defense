@@ -1,4 +1,4 @@
 const char* kd_font_filenames[] = {
-    "DonkeyStone.org",
+    "DonkeyStone.otf",
     "leadcoat.ttf"
 };

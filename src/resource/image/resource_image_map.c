@@ -1,0 +1,22 @@
+const char* kd_image_filenames[] = {
+    "atq1.png",
+    "atq2.png",
+    "atq3.png",
+    "atq4.png",
+    "mvt1.png",
+    "mvt2.png",
+    "mvt3.png",
+    "mvt4.png",
+    "knight1.png",
+    "knight2.png",
+    "knight3.png",
+    "knight4.png",
+    "cible_nonok.png",
+    "cible_ok.png",
+    "fireball.png",
+    "sword.png",
+    "fond.png",
+    "menu_cursor.png",
+    "map.png",
+    "scenario.png"
+};

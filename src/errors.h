@@ -15,4 +15,4 @@
 
 void kd_set_error(int line, const char *file, const char *function, const char *details, ...);
 
-#endif
+#endif // __ERRORS_H__

@@ -3,7 +3,10 @@
 
 #include <allegro5/allegro.h>
 
-#include "resource_font.h"
+#include "../errors.h"
+
+#include "font/resource_font.h"
+#include "image/resource_image.h"
 
 #define     KD_RESOURCE_FOLDER       "resources"
 
