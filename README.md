@@ -5,7 +5,7 @@
 Projet de semestre 1 de l'année Bachelor 1 à cs2i que j'ai réalisé en langage C, à l'aide de la bibliothèque `Allegro 5`.
 Un trailer vidéo du jeu est disponible [ici](https://github.com/Schrubitteflau/Knight-Defense/blob/original-code/Trailer.mp4).
 
-Avec le recul je m'aperçois que le code est absolument immonde, mais étant ma première vraie expérience de programmation, je trouve que le résultat n'est pas si décevant.
+Avec le recul, je m'aperçois que le code est absolument immonde, mais étant ma première vraie expérience de programmation, je trouve que le résultat n'est pas si décevant.
 
 ## La renaissance
 
